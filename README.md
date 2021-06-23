@@ -15,7 +15,7 @@
     - `docker build -t tone--flask-python-server .`     
     - `docker run -it -p 5000:5000 tone--flask-python-server`
 - To run without docker:
-    - `npm start`
+    - `python app.py`
 
 ## Run Tests
 `python test.py`
