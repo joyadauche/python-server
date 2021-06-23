@@ -8,7 +8,7 @@
 ### Home
 #### GET / - home page
 
-## Run Server:
+## Run Server
 - `git clone https://github.com/joyadauche/python-server.git`
 - `cd python-server`
 - To run with docker:
