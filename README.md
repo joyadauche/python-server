@@ -1,5 +1,9 @@
 # TONE API
-## An API that randomly returns the tone of a user.
+An API that randomly returns the tone of a user.
+
+## Postman Documentation
+- [API Service Doc](https://documenter.getpostman.com/view/1407713/TzecB4jd)
+- [API Service Test](https://www.getpostman.com/collections/81ee9e8511bb4c54ce25)
 
 ## Resources
 ### Tone
